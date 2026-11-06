@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://avatars.githubusercontent.com/u/286623151?v=4" width="220" alt="Kizen Logo" />
+  <img src="https://avatars.githubusercontent.com/u/286623151?v=4" width="200" alt="Kizen Logo" />
 
   # ⚡ Kizen
 
@@ -10,6 +10,7 @@
   [![License](https://img.shields.io/badge/License-MIT-00e5ff?style=flat-square)]()
 
   **Building the Kizen Ecosystem — one tool at a time.**
+  *Currently in R&D Phase 🧪*
 
 </div>
 
@@ -17,24 +18,28 @@
 
 ## 🚀 The Kizen Ecosystem
 
+> A modular suite of desktop applications and system utilities.
+
+### 🟢 Stable Products
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Project-Kizen Client
-Multi-provider AI desktop client — Gemini, OpenAI, OpenRouter, Groq, and any OpenAI-compatible endpoint (Ollama, LM Studio).
+#### 🤖 Project-Kizen Client `v1.2.1`
+Multi-provider AI desktop client — Gemini, OpenAI, OpenRouter, Groq, and any OpenAI-compatible endpoint (Ollama, LM Studio). Features an optimized streaming UI, SQLite persistence, and custom model support.
 
-**Stack:** Python · CustomTkinter · SQLite · Streaming
+**Stack:** `Python` · `CustomTkinter` · `SQLite` · `Streaming`
 
 [![Repo](https://img.shields.io/badge/→%20View%20Repo-00bfff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uaydemir633-dotcom/Project-Kizen-Client)
 
 </td>
 <td width="50%" valign="top">
 
-### 🛠️ Project Kizen Optimizer
-Hardware-aware Windows maintenance — SSD/HDD detection, DISM/SFC repairs, cache purges, telemetry shutdown.
+#### 🛠️ Project Kizen Optimizer `v1.3.1`
+Hardware-aware Windows maintenance — SSD/HDD detection, DISM/SFC repairs, cache purges, and telemetry shutdown. Zero dependencies, single batch file.
 
-**Stack:** Batch · PowerShell · Zero dependencies
+**Stack:** `Batch` · `PowerShell`
 
 [![Repo](https://img.shields.io/badge/→%20View%20Repo-00bfff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uaydemir633-dotcom/Project-Kizen-Optimizer)
 
@@ -42,14 +47,34 @@ Hardware-aware Windows maintenance — SSD/HDD detection, DISM/SFC repairs, cach
 </tr>
 </table>
 
+### 🧪 R&D / Labs (Work in Progress)
+
+Experimenting with the next generation of the ecosystem.
+
+- **Project-Kizen-Labs**: Exploring **PySide6** (for a future Qt-based GUI), **Local LLMs** (llama.cpp/Ollama), and **Agentic Workflows** (Tool calling, ReAct).
+- **Kizen Auto-Updater**: GitHub API-driven update engine with SHA256 verification.
+
+### ⚫ Archived / Legacy
+
+<details>
+<summary><b>Click to expand — JARVIS (OG)</b></summary>
+<br>
+
+The original Kizen JARVIS (May 2026 - Nov 2026). A microservice-based socket architecture (CORE, AI, VOICE) that pioneered the Kizen vision. Archived to make way for the faster, more stable Kizen Client.
+
+*"Respect the history. JARVIS was Kizen's first step."*
+
+[View JARVIS Repository](https://github.com/uaydemir633-dotcom/Project-Kizen-JARVIS)
+</details>
+
 ---
 
 ## 🧭 Currently
 
-- 🔭 **Working on:** Project-Kizen Client v1.3.0 — token-aware history, per-message regeneration
-- 🌱 **Learning:** PySide6 for a future cross-platform GUI
-- 💬 **Ask me about:** CustomTkinter, multi-provider AI streaming, Windows batch automation
-- ⚡ **Fun fact:** I built a Windows optimizer before I built my first web app
+- 🔭 **Working on:** Project-Kizen-Labs (R&D Phase) — prototyping Qt6 interface & local LLM integration.
+- 🌱 **Learning:** PySide6, Advanced Prompt Engineering, Agentic patterns.
+- 💬 **Ask me about:** CustomTkinter, Windows Automation (Batch/PowerShell), Multi-provider AI streaming.
+- ⚡ **Fun fact:** I built a Windows optimizer before I built my first web app.
 
 ---
 
