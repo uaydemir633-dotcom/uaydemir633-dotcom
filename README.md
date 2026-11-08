@@ -26,7 +26,7 @@
 ### 🤖 Project-Kizen Client
 Multi-provider AI desktop client — Gemini, OpenAI, OpenRouter, Groq, and any OpenAI-compatible endpoint (Ollama, LM Studio).
 
-**Live:** v1.3.0b1 (PySide6) · **In progress:** v1.3.0 (PySide6)
+**Live:** ✅ **v1.3.0 (PySide6 stable)** — Live markdown streaming, native Qt UI
 
 **Stack:** Python · PySide6 · SQLite · Streaming
 
@@ -37,6 +37,8 @@ Multi-provider AI desktop client — Gemini, OpenAI, OpenRouter, Groq, and any O
 
 ### 🛠️ Project Kizen Optimizer
 Hardware-aware Windows maintenance — SSD/HDD detection, DISM/SFC repairs, cache purges, telemetry shutdown.
+
+**Live:** ✅ **v1.3.1 (stable)** — SSD TRIM vs HDD defrag, browser cache, WER/dumps
 
 **Stack:** Batch · PowerShell · Zero dependencies
 
@@ -50,7 +52,7 @@ Hardware-aware Windows maintenance — SSD/HDD detection, DISM/SFC repairs, cach
 ### 📝 Project-Kizen Notes
 Keep-style local notes app — pin, color tags, search, keyboard shortcuts. Fully offline, no cloud, no account.
 
-**Status:** Private beta — public release soon.
+**Status:** 🚧 **Next up** — Public release planned.
 
 **Stack:** Python · CustomTkinter · SQLite
 
@@ -62,7 +64,7 @@ Keep-style local notes app — pin, color tags, search, keyboard shortcuts. Full
 ### ⚙️ Project-Kizen Auto-Updater
 Modular update engine — checks GitHub releases, downloads, verifies SHA256, and safely rolls back on failure.
 
-**Status:** Private — integration with Client v1.3.0 planned.
+**Status:** 🔒 Private — Client integration after Notes.
 
 **Stack:** Python · GitHub API · SHA256
 
@@ -88,8 +90,9 @@ Modular update engine — checks GitHub releases, downloads, verifies SHA256, an
 
 ## 🧭 Currently
 
-- 🔭 **Working on:** Project-Kizen Client **v1.3.0** — Canlı Markdown streaming ve PySide6 geçişinin finalize edilmesi. Sonrasında **Project-Kizen Notes**'un ilk public sürümü.
-- 🌱 **Learning:** Streaming state machines (live markdown rendering), Qt6 polish, advanced prompt engineering, agentic patterns.
+- 🎉 **Just shipped:** **Project-Kizen Client v1.3.0** — PySide6 migration complete, live markdown streaming, native Qt dialogs, DPI-aware layout.
+- 🔭 **Working on:** **Project-Kizen Notes** — Keep-style local notes app. Public release + PyInstaller `.exe` planned.
+- 🌱 **Learning:** Streaming state machines, Qt6 polish, multi-provider AI orchestration, agentic patterns.
 - 💬 **Ask me about:** Multi-provider AI streaming, PySide6 migration, Windows batch automation, local LLM endpoints (Ollama, LM Studio).
 
 ---
