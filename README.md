@@ -52,11 +52,11 @@ Hardware-aware Windows maintenance — SSD/HDD detection, DISM/SFC repairs, cach
 ### 📝 Project-Kizen Notes
 Keep-style local notes app — pin, color tags, search, keyboard shortcuts. Fully offline, no cloud, no account.
 
-**Status:** 🚧 **Next up** — Public release planned.
+**Status:** ✅ **v1.0.0 (public)** — PySide6 + SQLite, local-first
 
 **Stack:** Python · PySide6 · SQLite
 
-[![Repo](https://img.shields.io/badge/→%20Coming%20Soon-lightgrey?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/→%20View%20Repo-00bfff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uaydemir633-dotcom/Project-Kizen-Notes)
 
 </td>
 <td width="50%" valign="top">
@@ -91,7 +91,8 @@ Modular update engine — checks GitHub releases, downloads, verifies SHA256, an
 ## 🧭 Currently
 
 - 🎉 **Just shipped:** **Project-Kizen Client v1.3.0** — PySide6 migration complete, live markdown streaming, native Qt dialogs, DPI-aware layout.
-- 🔭 **Working on:** **Project-Kizen Notes** — Keep-style local notes app. Public release + PyInstaller `.exe` planned.
+- 🚀 **Also live:** **Project-Kizen Notes** — local-first, PySide6 + SQLite notes app is now public.
+- 🔭 **Working on:** **Project-Kizen Auto-Updater** — SHA256-verified update engine with rollback support.
 - 🌱 **Learning:** Streaming state machines, Qt6 polish, multi-provider AI orchestration, agentic patterns.
 - 💬 **Ask me about:** Multi-provider AI streaming, PySide6 migration, Windows batch automation, local LLM endpoints (Ollama, LM Studio).
 
