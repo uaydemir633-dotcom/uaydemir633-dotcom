@@ -54,7 +54,7 @@ Keep-style local notes app — pin, color tags, search, keyboard shortcuts. Full
 
 **Status:** 🚧 **Next up** — Public release planned.
 
-**Stack:** Python · CustomTkinter · SQLite
+**Stack:** Python · PySide6 · SQLite
 
 [![Repo](https://img.shields.io/badge/→%20Coming%20Soon-lightgrey?style=for-the-badge&logo=github&logoColor=white)](#)
 
@@ -103,7 +103,6 @@ Modular update engine — checks GitHub releases, downloads, verifies SHA256, an
 
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-41cd52?style=flat-square&logo=qt&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1f6feb?style=flat-square&logo=python&logoColor=white)
 ![Batch](https://img.shields.io/badge/Batch-4d4d4d?style=flat-square&logo=windows&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391fe?style=flat-square&logo=powershell&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=sqlite&logoColor=white)
