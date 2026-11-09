@@ -122,9 +122,9 @@ Modular update engine — checks GitHub releases, downloads, verifies SHA256, an
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=uaydemir633-dotcom&show_icons=true&theme=tokyonight&hide_border=true" alt="Kizen's GitHub Stats" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api?username=uaydemir633-dotcom&show_icons=true&theme=tokyonight&hide_border=true" alt="Kizen's GitHub Stats" height="180" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uaydemir633-dotcom&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=uaydemir633-dotcom&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 
 </div>
 
